@@ -1,4 +1,5 @@
-JS逆向爬取分析案例
+# JS逆向爬取分析案例，详细教程地址
+# https://doc.itprojects.cn/0001.zhishi/python.0016.fanpa/index.html#/10
 import json
 import requests
 import re
